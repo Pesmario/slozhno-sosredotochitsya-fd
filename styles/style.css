@@ -233,7 +233,7 @@ a:hover {
     inset-block-start: 20px;
   }
 
-  .section  {
+  .section {
     grid-template-columns: 1fr 472px;
     gap: 20px;
     padding-inline: 20px;
