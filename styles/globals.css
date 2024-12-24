@@ -10,6 +10,8 @@ body {
   min-inline-size: 375px;
   max-inline-size: 1440px;
   margin: 0 auto;
+  font-family: var(--page-font-family);
+  color: var(--text-color);
 }
 
 h1,
@@ -19,7 +21,10 @@ h4,
 h5,
 h6,
 p {
+  line-height: 23.4px;
+  font-size: 18px;
   margin: 0;
+  padding: 0;
 }
 
 ul {
@@ -35,6 +40,8 @@ picture {
 
 button,
 a {
+  background-color: transparent;
+  border: none;
   color: currentColor;
   font-family: inherit;
   font-size: inherit;
