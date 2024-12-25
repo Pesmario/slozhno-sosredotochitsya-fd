@@ -9,13 +9,14 @@
     --header-title-color: #FFC2E6;
     --accent-color: #FF8DCB;
     --button-color: #353430;
+    --menu-color: #353430;
     --button-color-hover: rgb(53 52 48 / 0.4);
     --decor-color: #353430;
     --header-color: #353430;
     --text-color: #353430;
     --rec-visability: hidden;
     --cover-image: url(../images/cover-image-light.png);
-    --page-color: #fff;
+    --page-color: #fff1f7;
   }
 
 @media (prefers-color-scheme: light) {
@@ -23,11 +24,15 @@
     --page-font-family: 'IBM Plex mono', monospace;
     --header-title-color: #FFC2E6;
     --accent-color: #FF8DCB;
+    --button-color: #353430;
+    --menu-color: #353430;
+    --button-color-hover: rgb(53 52 48 / 0.4);
+    --decor-color: #353430;
     --header-color: #353430;
     --text-color: #353430;
     --rec-visability: hidden;
     --cover-image: url(../images/cover-image-light.png);
-    --page-color: #fff;
+    --page-color: #fff1f7;
     }
   }
   
