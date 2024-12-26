@@ -17,6 +17,7 @@
     --rec-visability: hidden;
     --cover-image: url(../images/cover-image-light.png);
     --page-color: #fff1f7;
+    --focus-color: #353430;
   }
 
 @media (prefers-color-scheme: light) {
@@ -33,6 +34,7 @@
     --rec-visability: hidden;
     --cover-image: url(../images/cover-image-light.png);
     --page-color: #fff1f7;
+    --focus-color: #353430;
     }
   }
   

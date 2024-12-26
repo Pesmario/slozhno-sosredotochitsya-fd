@@ -163,7 +163,7 @@ a:hover {
 }
 
 .link:focus-visible {
-  outline: 1px solid var(--accent-color);
+  outline: 1px solid var(--focus-color);
 }
 
 .gallery-list {

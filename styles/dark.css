@@ -17,6 +17,7 @@
   --rec-visability: visible;
   --cover-image: url(../images/cover-image-dark.png);
   --page-color: #000028;
+  --focus-color: #F1B2CE;
 }
 
 .theme-dark .page {
